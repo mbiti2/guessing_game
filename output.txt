@@ -1,10 +1,5 @@
 Guess the number:
-You missed! The random number is lesser than 80
+You missed! The random number is lesser than 3
 Please try again!
 Guess the number:
-You missed! The random number is lesser than 99
-Please try again!
-Guess the number:
-You missed! The random number is lesser than 49
-Please try again!
-You lose, the number was 47
+Congratulations, You Won!
